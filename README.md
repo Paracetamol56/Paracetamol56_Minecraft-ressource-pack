@@ -1,7 +1,7 @@
-# Paracetamol56's Minecraft ressource pack
+# Paracetamol56's Minecraft ressource pack
 
-<img alt="MC Version" height="26px" src="https://img.shields.io/badge/MC%20version-1.16.4-green?style=for-the-badge&logo=minecraft"/>
-<img alt="Java" height="26px" src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=java"/>
+<img align="left" alt="MC Version" height="26px" src="https://img.shields.io/badge/MC%20version-1.16.4-green?style=for-the-badge&logo=minecraft"/>
+<img align="left" alt="Java" height="26px" src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=java"/>
 <img alt="Resolution" height="26px" src="https://img.shields.io/badge/Resolution-32x32-blue?style=for-the-badge"/>
 
 ## [EN]
