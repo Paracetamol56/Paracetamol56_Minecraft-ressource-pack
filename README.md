@@ -1,6 +1,6 @@
 # Paracetamol56's Minecraft ressource pack
 
-<img align="left" alt="MC Version" height="26px" src="https://img.shields.io/badge/MC%20version-1.16.4-green?style=for-the-badge&logo=minecraft"/>
+<img align="left" alt="MC Version" height="26px" src="https://img.shields.io/badge/MC%20version-1.18.1-green?style=for-the-badge&logo=minecraft"/>
 <img align="left" alt="Java" height="26px" src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=java"/>
 <img alt="Resolution" height="26px" src="https://img.shields.io/badge/Resolution-32x32-blue?style=for-the-badge"/>
 
@@ -12,10 +12,10 @@ _Translation soon_
 
 ## Informations
 
-**Version du pack :** 1.8.4
-**Version de Minecraft :** 1.16.4
+**Version du pack :** 1.10.0
+**Version de Minecraft :** 1.18.1
 **Résolution :** 32x32
-**Changlog 1.8.4 :** Compatibilité 1.16.4; ajout des textures pour les outils en netherite très avec une durabilité très faible
+**Changlog 1.8.4 :** Compatibilité 1.18.1; Ajout d'un theme de chargement sombre pour le darkmode
 
 ## Pack normal
 
@@ -58,7 +58,7 @@ Pour signaler un bug, merci d'ouvrir une [issue GitHub](https://github.com/Parac
 
 ## Credits / Crédits
 
-MATH_FAITHFUL 1.16.x | mixé par Paracetamol56
+MATH_FAITHFUL 1.18.x | mixé par Paracetamol56
 
 ### Ressourcepacks utilisés:
 
